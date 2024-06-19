@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC28_makeAppointmentScreen_HealthcareProgram</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d1a9a0a1-caa6-4457-89a9-125f5caa6e68</testCaseGuid>
+</TestCaseEntity>

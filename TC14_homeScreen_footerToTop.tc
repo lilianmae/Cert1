@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC14_homeScreen_footerToTop</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cf022c96-7746-46ee-adcf-5cb1d7e44875</testCaseGuid>
+</TestCaseEntity>

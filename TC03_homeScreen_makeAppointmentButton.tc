@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_homeScreen_makeAppointmentButton</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5dc466fa-577e-48bd-8419-a33f716b2950</testCaseGuid>
+</TestCaseEntity>

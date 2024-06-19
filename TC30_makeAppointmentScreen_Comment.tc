@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC30_makeAppointmentScreen_Comment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>658e40c0-f969-48fd-a02f-6f813a35fed5</testCaseGuid>
+</TestCaseEntity>

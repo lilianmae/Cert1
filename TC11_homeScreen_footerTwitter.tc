@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC11_homeScreen_footerTwitter</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0ad449ae-9644-4eec-810c-1eea018cc1fe</testCaseGuid>
+</TestCaseEntity>

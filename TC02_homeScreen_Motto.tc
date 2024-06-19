@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_homeScreen_Motto</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1d1686a5-d0ad-42e5-81bb-30f194fd5876</testCaseGuid>
+</TestCaseEntity>

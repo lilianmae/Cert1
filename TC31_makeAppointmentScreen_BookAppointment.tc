@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC31_makeAppointmentScreen_BookAppointment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1dadd968-2552-4f14-b6a6-2d2815e776c9</testCaseGuid>
+</TestCaseEntity>

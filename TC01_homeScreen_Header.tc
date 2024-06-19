@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_homeScreen_Header</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a73ff2b0-0e63-4d0c-afac-f89c95089a1e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC07_homeScreen_footerAddress</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>48f31eae-e3e6-4555-bc6d-02d9897a97ee</testCaseGuid>
+</TestCaseEntity>

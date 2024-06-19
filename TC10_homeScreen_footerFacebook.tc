@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC10_homeScreen_footerFacebook</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8aa56cae-658c-4303-9f19-da89844a8f47</testCaseGuid>
+</TestCaseEntity>

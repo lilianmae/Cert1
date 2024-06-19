@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC08_homeScreen_footerContactNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0e7d6bac-1f98-4293-841a-8ea68ff8bc79</testCaseGuid>
+</TestCaseEntity>

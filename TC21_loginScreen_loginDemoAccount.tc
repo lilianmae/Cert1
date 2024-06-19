@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC21_loginScreen_loginDemoAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7a5a17fe-a01b-4949-8f3a-a284e3840f2c</testCaseGuid>
+</TestCaseEntity>

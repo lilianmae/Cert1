@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC29_makeAppointmentScreen_VisitDate</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>abdbb406-4e5c-4e4f-b2b3-f009e596be14</testCaseGuid>
+</TestCaseEntity>

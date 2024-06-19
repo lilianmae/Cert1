@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC27_makeAppointmentScreen_Facility</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5c607157-b611-4fab-a6b1-b9c991450724</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC26_makeAppointmentScreen_Header</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1b9d1d0c-dd65-4fe0-a5f0-793324804f7b</testCaseGuid>
+</TestCaseEntity>
